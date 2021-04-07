@@ -10,6 +10,11 @@ body{
 
 header {
     height: 100px;
+    margin: 35px;
+}
+
+h1 {
+    text-align: center;
 }
 
 #kep {
