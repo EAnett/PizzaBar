@@ -1,0 +1,28 @@
+body{
+    background-color: #bee5eb;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.container {
+    background-color: #80bdff;
+    width: 80%;
+    margin: 0px auto;
+}
+
+header {
+    height: 100px;
+}
+
+#kep {
+    float: left;
+    margin-right: 40px;
+}
+
+footer{
+    text-align: center;
+}
+.PizzaKep {
+    height:auto;
+    max-height: 80px;
+    width: auto;
+    max-width: 120px;
+}
